@@ -38,3 +38,28 @@ body{
 .tribute img{
     max-width: 100%;
 }
+.bio{
+    margin: 2rem ,auto;
+    padding: 0px 0.5rem;
+    line-height: 1.2;
+   
+}
+.bio > h2{
+    margin-bottom: 1rem;
+    font-size: 3rem;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.bio_p{
+    font-size: 1.2rem;
+    margin-top: 2rem;
+    line-height: 1.4;
+    max-width: 40rem;
+    margin: 0px auto;
+}
+.bio > br{
+    margin-top: 2rem;
+}
